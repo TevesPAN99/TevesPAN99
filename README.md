@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi 👋, I'm Pan
 
-<!--
-**TevesPAN99/TevesPAN99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Master's student at **Kyushu University**, Japan  
+💼 Previously: Software Engineer in China (Java backend, 1.5 years)  
+🔬 Currently exploring **LLM applications** at Suzuki Lab  
+🌏 Building toward a global engineering career
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages:** Python, Java, TypeScript  
+**Backend:** Spring Boot, FastAPI, MySQL, MongoDB  
+**ML/AI:** PyTorch, LangChain, HuggingFace  
+**Tools:** Git, Docker, AWS
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TevesPAN99&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TevesPAN99&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 💪 LeetCode Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/TevesPAN99?theme=dark&font=Noto%20Sans&ext=heatmap)
+
+---
+
+📫 **Reach me:** tevespan@yahoo.com
+🌱 *Building toward something. One commit at a time.*
